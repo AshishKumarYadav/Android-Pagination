@@ -1,6 +1,5 @@
 # Dunzo-Assignment
 
-This project is an assignment given by Dunzo for their initial round.
 
 It's basically a paging project where items have to be shown a/c to pagination. Search functionality is also implemented to search and item and then fetch the same from server.
 
